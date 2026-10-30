@@ -1,0 +1,8 @@
+.venv/
+__pycache__/
+.env
+.cache/
+runs/
+results/
+data/*.jsonl
+repos/

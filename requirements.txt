@@ -1,0 +1,17 @@
+langchain-core
+langchain-openai
+llama-index-core
+llama-index-embeddings-huggingface
+sentence-transformers
+python-dotenv
+pytest
+streamlit
+pandas
+# training: install on the GPU machine
+torch
+transformers
+datasets
+peft
+trl
+bitsandbytes
+accelerate
